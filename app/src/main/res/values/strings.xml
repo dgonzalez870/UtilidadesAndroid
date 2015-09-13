@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UtilidadesAndroid</string>
+    <string name="hello_world">Cronómetro</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_servicio_cliente">Servicio Cliente</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="cron_metro">Cronómetro</string>
+    <string name="sensores">Sensores</string>
+    <string name="red">Red</string>
+    <string name="localizaci_n_y_telefon_a">Localización y Telefonía</string>
+    <string name="informaci_n_del_clima">Información del Clima</string>
+	<string name="act_mapas">Google Maps Demo</string>
+</resources>

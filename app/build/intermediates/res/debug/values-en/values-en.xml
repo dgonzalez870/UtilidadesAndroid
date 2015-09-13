@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/JARAMILLO/AndroidStudioProjects/UtilidadesAndroid/app/src/main/res/values-en/strings.xml -->
+    <eat-comment/>
+    <string name="act_datos_red">Network data</string>
+    <string name="act_datos_tel">Device Data</string>
+    <string name="act_info_geo">Geographical information</string>
+    <string name="act_mapas">Google Maps Demo</string>
+    <string name="act_test_datos">Data test</string>
+    <string name="act_test_llam">Calling Test</string>
+    <string name="app_name">MobileSignal</string>
+</resources>
